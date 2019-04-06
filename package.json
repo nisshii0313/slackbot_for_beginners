@@ -1,0 +1,22 @@
+{
+  "name": "slackbot_for_beginners",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nisshii0313/slackbot_for_beginners.git"
+  },
+  "author": "Yuta Imanishi <yuta19990313@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisshii0313/slackbot_for_beginners/issues"
+  },
+  "homepage": "https://github.com/nisshii0313/slackbot_for_beginners#readme",
+  "dependencies": {
+    "botkit": "^0.7.4"
+  }
+}
